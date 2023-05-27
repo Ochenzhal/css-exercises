@@ -1,0 +1,19 @@
+.default {
+    background-color: rgb(245, 129, 148);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(67, 67, 238);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(153, 216, 58);
+    font-size: 24px;
+    font-weight: bold;
+}
